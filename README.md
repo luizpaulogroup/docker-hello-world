@@ -19,4 +19,4 @@ This project was developed with the technologies:
 
 ---
 
-Made with :heart: by Luiz Paulo Gonçalves :wave: [Get in touch!](https://www.linkedin.com/in/luiz-paulo/)
+Made with :heart: by Luiz Paulo :wave: [Get in touch!](https://www.linkedin.com/in/luiz-paulo/)

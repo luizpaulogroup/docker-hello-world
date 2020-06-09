@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React logo" width="100px" height="100px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/docker.png" />
+    <img alt="React logo" width="150px" height="100px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/docker.png" />
     <br>
     Docker hello world
 </h1>
